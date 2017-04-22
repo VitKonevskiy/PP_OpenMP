@@ -1,0 +1,12 @@
+﻿  main.cpp
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(216): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(248): warning C4101: a: неиспользованная локальная переменная
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(246): warning C4101: counter: неиспользованная локальная переменная
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(241): warning C4101: arr_out_tmp: неиспользованная локальная переменная
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(237): warning C4101: start_index: неиспользованная локальная переменная
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(248): warning C4101: b: неиспользованная локальная переменная
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(248): warning C4101: Size1: неиспользованная локальная переменная
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(248): warning C4101: Size2: неиспользованная локальная переменная
+f:\vs projects\pp_2sem\pp_lsd_sort\main.cpp(240): warning C4101: arr_inp_tmp: неиспользованная локальная переменная
+  PP_LSD_Sort.vcxproj -> F:\VS Projects\PP_2sem\Debug\PP_LSD_Sort.exe
+  PP_LSD_Sort.vcxproj -> F:\VS Projects\PP_2sem\Debug\PP_LSD_Sort.pdb (Partial PDB)

@@ -1,0 +1,17 @@
+﻿  main.cpp
+main.cpp(215): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+main.cpp(247): warning C4101: a: неиспользованная локальная переменная
+main.cpp(245): warning C4101: counter: неиспользованная локальная переменная
+main.cpp(240): warning C4101: arr_out_tmp: неиспользованная локальная переменная
+main.cpp(236): warning C4101: start_index: неиспользованная локальная переменная
+main.cpp(247): warning C4101: b: неиспользованная локальная переменная
+main.cpp(247): warning C4101: Size1: неиспользованная локальная переменная
+main.cpp(247): warning C4101: Size2: неиспользованная локальная переменная
+main.cpp(239): warning C4101: arr_inp_tmp: неиспользованная локальная переменная
+  Создание кода
+  3 of 14 functions (21.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PP_LSD_Sort.vcxproj -> F:\VS Projects\PP_2sem\Release\PP_LSD_Sort.exe
+  PP_LSD_Sort.vcxproj -> F:\VS Projects\PP_2sem\Release\PP_LSD_Sort.pdb (Full PDB)
